@@ -1,0 +1,20 @@
+[
+	{
+		"id": "0101",
+		"name": "Kate's Kitchen",
+		"address": "471 Haight St, SF",
+		"price": "$",
+		"description": "Nice place for brunch or lunch. Very traditional breakfast, and for lunch there is mostly very big salads. But don't despair. Ther is a loong list of sides to order. The writer recommends the Pelana salad, without cheese.",
+		"homepage": "http://kates-kitchensf.com",
+		"tags": "breakfast brunch lunch"
+	},
+	{
+		"id": "0102",
+		"name": "King of Noodles",
+		"address": "1639 Irving St, SF",
+		"price": "$",
+		"description": "In this lovely area in Sunset, you will find all sorts of shops, restaurants and also King of Noodles. It is a very modest place, but the food is genuin, generous and cheap. Focus lies on noodles and dumplings. Try their potsticks and don't forget to order a tsingtao as well. Some of the sauces is really spicy. A tip is to always ask what is served utside the menu. ",
+		"homepage": "http://www.kingofnoodlessanfrancisco.com",
+		"tags": "lunch dinner"
+	}
+]

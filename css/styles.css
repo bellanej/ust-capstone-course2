@@ -1,0 +1,87 @@
+#conJumbo {
+	padding: 0;
+}
+div.jumbotron.mb-0 {
+	background-color: #dde8da;
+}
+
+nav {
+	width: 80%;
+	margin: auto;
+/*	border-top: 1px solid #000;*/
+	border-bottom: 1px solid #000;
+}
+
+nav.navbar {
+	background-color: #FFFFFF;
+}
+
+div.container {
+	width: 80%;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+div.row {
+	border-top: 1px solid #000;
+	margin-top: 10px;
+	padding-top: 10px;
+}
+#eatItemContent {
+	border-style: none;
+}
+
+#mapContent{
+	border-style: none;
+}
+
+.carousel {
+	width: 80%;
+}
+
+#home-tiles {
+	border: none;
+}
+
+#eat-tile, #drink-tile, #shop-tile, #do-tile {
+  height: 200px;
+  width: 100%;
+  margin-bottom: 15px;
+  position: relative;
+  border: 1px solid #000000;
+  overflow: hidden;
+}
+
+#eat-tile span, #drink-tile span, #shop-tile span, #do-tile span {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  text-align: center;
+  font-size: 1.6em;
+  text-transform: uppercase;
+  background-color: #dde8da;
+  color: #fff;
+  /* opacity? */
+}
+
+.map-responsive{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+.map-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+
+
+
+
+
+
+
+
